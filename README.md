@@ -1,2 +1,2 @@
-# Contact-form-with-Captcha
-codeclause project for internship
+# Contact-form-with-captcha
+Contact-form-with-captcha
